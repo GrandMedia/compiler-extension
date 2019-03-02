@@ -1,5 +1,5 @@
 {
-  "name": "adeira/compiler-extension",
+  "name": "grand-media/compiler-extension",
   "license": "MIT",
   "require": {
     "php": "^7.0",
